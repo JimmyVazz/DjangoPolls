@@ -1,0 +1,3 @@
+db.sqlite
+manage.py
+/polls/__pycache__
